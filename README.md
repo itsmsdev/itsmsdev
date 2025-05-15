@@ -13,8 +13,8 @@
 **Analyst II – Software Engineer**  
 Currently working as **PMO** for **Zurich UK Insurance (ASP Project)**
 
-- 🔍 Exploring: `.NET 8`, `ASP.NET`, `C#`, `MVC`
-- 💾 Past Experience: `Python`, `django` technologies
+- 💾 Technical Skills: `.NET 8`, `ASP.NET`, `C#`, `Python`, `Django`
+- 💾 Past Experience: `C++`, `Mainframe (DXC Trained)`
 - 💬 Ask me about: **Zurich UKI PMO workflows and project coordination**
 - ⚡ Fun Fact: I love finding creative and efficient ways to solve problems
 - 📈 Interests: **Technology**, Project Management
